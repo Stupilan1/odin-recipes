@@ -1,0 +1,43 @@
+img{
+    height: auto;
+    width: 200;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    color: darkblue;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    text-align: center;
+    font-family: fantasy;
+}
+
+h3{
+    color: blue;
+    font-family: fantasy;
+}
+
+ul{
+    font-family: fantasy;
+    color: black;
+}
+
+ol{
+    font-family: fantasy;
+    color: black;
+}
+
+dt{
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-family: fantasy;
+}
+
+dd{
+    color: black;
+    font-family: fantasy;
+}
